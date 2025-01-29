@@ -1,12 +1,1 @@
-spring:
-  mail:
-    host: smtp.gmail.com
-    username: lodumorpratik@gmail.com
-    password: xbppofuvmythngsw
-    port: 587
-    properties:
-      mail:
-        smtp:
-          starttls:
-            enable: true
-          auth: true
+
